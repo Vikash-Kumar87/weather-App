@@ -1,5 +1,5 @@
 import './App.css';
-import Weather from './components/Weather'; // ✅ Correct casing
+import Weather from './components/Weather'; // ✅ correct casing
 function App() {
   return (
     <div className="App">
